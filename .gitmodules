@@ -1,0 +1,3 @@
+[submodule "ecoleta-nlw"]
+	path = ecoleta-nlw
+	url = https://github.com/gustavohc07/ecoleta-nlw
